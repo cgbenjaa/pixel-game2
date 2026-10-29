@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nombre": "Elden Ring",
+      "categoria": "RPG",
+      "descripcion": "Explora las Tierras Intermedias y supera grandes desafíos.",
+      "precio": 19990,
+      "precioAnterior": 24990,
+      "stock": 12,
+      "imagen": "/imagenes/elden.avif",
+      "oferta": true
+    },
+    {
+      "id": "2",
+      "nombre": "Marvel's Spider-Man",
+      "categoria": "Acción",
+      "descripcion": "Recorre la ciudad y vive una aventura como Spider-Man.",
+      "precio": 24990,
+      "precioAnterior": 24990,
+      "stock": 8,
+      "imagen": "/imagenes/spiderman.webp",
+      "oferta": false
+    },
+    {
+      "id": "3",
+      "nombre": "Grand Theft Auto V",
+      "categoria": "Mundo abierto",
+      "descripcion": "Explora Los Santos en una historia llena de acción.",
+      "precio": 14990,
+      "precioAnterior": 19990,
+      "stock": 15,
+      "imagen": "/imagenes/gta.jpg",
+      "oferta": true
+    },
+    {
+      "id": "4",
+      "nombre": "The Legend of Zelda",
+      "categoria": "Aventura",
+      "descripcion": "Descubre un mundo de aventura y exploración.",
+      "precio": 29990,
+      "precioAnterior": 29990,
+      "stock": 6,
+      "imagen": "/imagenes/zelda.avif",
+      "oferta": false
+    },
+    {
+      "id": "5",
+      "nombre": "Hollow Knight",
+      "categoria": "Plataforma",
+      "descripcion": "Viaja por un reino subterráneo dibujado a mano.",
+      "precio": 8990,
+      "precioAnterior": 11990,
+      "stock": 20,
+      "imagen": "/imagenes/Hollow_Knight_2026_cover_art.jpg",
+      "oferta": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
