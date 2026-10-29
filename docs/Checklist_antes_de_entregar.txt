@@ -1,0 +1,14 @@
+CHECKLIST ANTES DE ENTREGAR
+1. Instalar una versión LTS de Node.js.
+2. Abrir en VS Code la carpeta que contiene package.json.
+3. Ejecutar npm install.
+4. Ejecutar npm start y revisar las vistas en el navegador.
+5. Ejecutar npm run test:karma y corregir cualquier error.
+6. Ejecutar npm test y npm run build.
+7. Revisar que las imágenes se carguen.
+8. Probar carrito, cambio de cantidad, checkout correcto y checkout rechazado.
+9. Probar crear, editar y eliminar un producto en Administración.
+10. Subir el proyecto a un repositorio público de GitHub y pegar el enlace real en la entrega.
+11. La captura del profesor es para su ejemplo mi-tienda con json-server y Vite. Este proyecto usa localStorage y npm start; no necesita json-server.
+12. No afirmar que los tests pasaron hasta comprobar el resultado en la terminal.
+13. El proyecto no incluye pagos reales, backend ni base de datos remota.

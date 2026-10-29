@@ -1,0 +1,12 @@
+PIXEL GAME — COMANDOS
+
+Desde la carpeta que contiene package.json:
+
+1. npm install
+2. npm start
+   Abrir http://localhost:3000
+3. npm run test:karma
+4. npm run build
+
+Si PowerShell bloquea npm.ps1, cambiar la terminal a Command Prompt (Símbolo del sistema).
+No afirmar que las pruebas pasaron hasta ver el resultado real.
